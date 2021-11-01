@@ -1,0 +1,31 @@
+footer {
+  background-color: #04283e;
+}
+.underline {
+  padding-bottom: 10px;
+  /* text-decoration: underline;
+    text-underline-position:under; */
+}
+.icon-color a {
+  color: lightcyan;
+}
+
+/* custome btn */
+.font-color5 {
+  color: #ff722c;
+  border-radius: 1px solid #ff722c;
+}
+.font-color5:hover {
+  color: white;
+  background: #00b2b6;
+  border-radius: 4px;
+}
+
+.btn-brdr {
+  color: white;
+  background: #ff722c;
+}
+.brdr {
+  border: 1px solid #ff722c;
+  border-radius: 4px;
+}

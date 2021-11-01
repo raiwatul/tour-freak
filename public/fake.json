@@ -1,0 +1,129 @@
+[
+   {
+    
+    "img": "https://i.ibb.co/xDCGMKP/Rheinfall.jpg",
+    "country": "Europe",
+    "place_name": "Glimpses of Switzerland",
+    "price": 210,
+    "total_reviews": 774,
+    "rating": 4.9,
+    "day": 5,
+    "night": 6,
+    "description": "Switzerland, a country widely appreciated as heaven on earth with its mighty mountains, fascinating villages, fancy cities, scenic train rides and so much more. It is a place that must be on everyone's bucket list for the natural beauty of the majestic Alps, the placid lakes and quaint villages can make your experience totally worthwhile. It holds rich culture and art, it is said to be a hub of cultural diversity, inspired by neighbouring countries on all borders. The best way to explore this country's landscape is by train that offers exceptional views. From the buzzing nightlife in Zurich to the picturesque Interlaken, the cities in Switzerland are a mix of culture and beauty. "
+  },
+   {
+    
+    "img": "https://i.ibb.co/F0KMcpy/Cathedral-of-Christ-the-Saviour-in-Moscow-Russia-Sunny-summer-day.jpg",
+    "country": "Europe",
+    "place_name": "Glimpses of Russia",
+    "price": 110,
+    "total_reviews": 563,
+    "rating": 4.7,
+    "day": 7,
+    "night": 8,
+    "description": "Russia being the largest nation in the world, no doubt has wide range of options to explore. The highlight of the country would be that the entire country still flourishes in its rich culture and heritage, simultaneously developing in terms of infrastructure, technology and trends. Moreover, as the country borders European as well as Asian countries, it sports a unique culture. When it comes to tourist places in Russia, it happens to be a paradise for history lovers given the various monuments and sites that each have a story to discover. The country also flourishes in ancient art styles, being a treat for artistry tourists. Each region of the country has a historical story and deserves separate attention."
+  },
+  
+  
+  {
+    
+    "img": "https://i.ibb.co/XSpRX7L/service3.jpg",
+    "country": "Europe",
+    "place_name": "Turkish Extravaganza",
+    "price": 180,
+    "total_reviews": 945,
+    "rating": 4.4,
+    "day": 5,
+    "night": 6,
+    "description": "Turkey, officially the Republic of Turkey, is a historic country of the world. It resides on the Anatolian peninsula in Western Asia and Balkan peninsula in Southeastern Europe. The Turkey Country is enveloped by sea on three sides – the Aegean Sea to the west, the Black Sea to the north, and the Mediterranean Sea to the south. The beauty of Turkey is lined up with warm colours, sun-kissed beaches, pine-covered forests, and historic Roman wonders. These exquisite exceptions played a big role in bagging the country 16 UNESCO World Heritage sites. From the largest remnants of the Roman Empire to exotic white travertine terraces of Pamukkale, Turkey has it all. "
+  },
+   {
+   
+    "img": "https://i.ibb.co/SnBpskp/service4.jpg",
+    "country": "Europe",
+    "place_name": "Tour of Ireland",
+    "price": 220,
+    "total_reviews": 745,
+    "rating": 4.5,
+    "day": 9,
+    "night": 10,
+    "description": "The Republic of Ireland is one of the most vibrant, happy and exciting places you could ever visit in your life. Home to the fine crafted Guinness beer, this place boasts about having some of the most beautiful castles, monuments, natural views and lush green landscape. Ireland is indeed one of the most beautiful European countries and a suitable holiday destination for all types of tourists as well as travelers. Ireland is a perfect place to have a relaxing holiday and get away from the hectic schedule and revitalize and rejuvenate your mind, body and soul."
+  },
+   {
+   
+    "img": "https://i.ibb.co/bQc94Yk/service5.jpg",
+    "country": "Europe",
+    "place_name": "Discover Greece",
+    "price": 420,
+    "total_reviews": 769,
+    "rating": 4.8,
+    "day": 4,
+    "night": 5,
+    "description": "The Republic of Ireland is one of the most vibrant, happy and exciting places you could ever visit in your life. Home to the fine crafted Guinness beer, this place boasts about having some of the most beautiful castles, monuments, natural views and lush green landscape. Ireland is indeed one of the most beautiful European countries and a suitable holiday destination for all types of tourists as well as travelers. Ireland is a perfect place to have a relaxing holiday and get away from the hectic schedule and revitalize and rejuvenate your mind, body and soul."
+  },
+  {
+    
+    "img": "https://i.ibb.co/wQzB0GC/service6.jpg",
+    "country": "Europe",
+    "place_name": "Great Scandinavia",
+    "price": 420,
+    "total_reviews": 469,
+    "rating": 4.7,
+    "day": 8,
+    "night": 9,
+    "description": "Home to the beautiful mountains of Oslo and providing you with the perfect amalgamation of culture with history, Scandinavia has been inviting loads of tourists towards its picture-perfect surroundings.The first day of this trip will start with reaching Stockholm-Arlanda airport, followed by being driven towards your comfy stay. Once you arrive here, some time will be provided for leisure after which a sightseeing tour will begin. You will be going towards Drottninggatan - a street home to numerous shopping spots and excellent restaurants. The day can be spent shopping for souvenirs, followed by indulging in food"
+  },
+  {
+    
+    "img": "https://i.ibb.co/6Wrqfx3/service7.jpg",
+    "country": "Africa",
+    "place_name": "Zimbabwe Adventure",
+    "price": 720,
+    "total_reviews": 669,
+    "rating": 4.8,
+    "day": 6,
+    "night": 5,
+    "description": "Zimbabwe is a superb but often underrated destination and this itinerary showcases its highlights. Marvel at Victoria Falls, one of the world’s most impressive waterfalls and then head off on safari to Hwange National Park, famed for its elephants and walking safaris, and finally to the unspoilt wilderness of Mana Pools."
+  },
+   {
+   
+    "img": "https://i.ibb.co/qkDWcPc/service8.jpg",
+    "country": "Africa",
+    "place_name": "Classic Tanzania & Zanzibar",
+    "price": 520,
+    "total_reviews": 579,
+    "rating": 4.2,
+    "day": 6,
+    "night": 7,
+    "description": "Combine beach and bush for the ultimate luxury holiday to Tanzania and Zanzibar. Spend your days in Tanzania wildlife spotting with the knowledge you'll be returning back to sumptuous accommodation. Then make your way over to Zanzibar and mark your spot on the pristine white shores and clear azure for a spot of R&R."
+  },
+  {
+   
+    "img": "https://i.ibb.co/3F3B2TX/service9.jpg",
+    "country": "Africa",
+    "place_name": "Classic South Africa",
+    "price": 920,
+    "total_reviews": 369,
+    "rating": 4.5,
+    "day": 3,
+    "night": 2,
+    "description": "Combine beach and bush for the ultimate luxury holiday to Tanzania and Zanzibar. Spend your days in Tanzania wildlife spotting with the knowledge you'll be returning back to sumptuous accommodation. Then make your way over to Zanzibar and mark your spot on the pristine white shores and clear azure for a spot of R&R. "
+  },
+  {
+    "img": "https://i.ibb.co/RSq9YPF/service10.jpg",
+    "country": "Africa",
+    "place_name": "A Zambian Adventurer",
+    "price": 620,
+    "total_reviews": 279,
+    "rating": 4.5,
+    "day": 3,
+    "night": 2,
+    "description": "Zambia has so much to offer, especially when it comes to safari. Which is why we've created (what we think is) the perfect safari schedule for unspoilt game viewing. Move across Zambia to three different luxury and unique properties with plenty to indulge in. A tip from us - Africa on foot is not to be missed.  "
+  }
+  
+  
+  
+
+
+
+]

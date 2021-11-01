@@ -1,0 +1,110 @@
+.caption h3 {
+  font-size: 5rem;
+  font-weight: 700;
+  color: white;
+}
+
+.cover {
+  background: url(../../Images/caor3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.cover2 {
+  background: url(../../Images/caor2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.cover3 {
+  background: url(../../Images/caor1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+/* custom button css */
+.font-color5 {
+  color: red;
+  border-radius: 1px solid red;
+}
+.font-color5:hover {
+  color: grey;
+  background: red;
+  border-radius: 20px;
+}
+
+.btn-brdr {
+  color: rgb(250, 248, 248);
+  background: red;
+}
+.brdr {
+  border: 1px solid red;
+  border-radius: 20px;
+}
+/* custom text color */
+
+.text-orgarge {
+  color: red;
+}
+.text-size {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+/* extra cover */
+.extra-cover {
+  background-image: url(../../Images/achiv-shape.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.size {
+  font-size: 82px;
+  color: white;
+}
+
+.con {
+  /* padding: 20px; */
+  margin-left: 10px;
+  text-align: center;
+  background: #304f47;
+  color: #fff;
+  box-shadow: 0 0 64px rgb(17 17 17 / 10%);
+  border-radius: 5px;
+}
+.text-color {
+  color: #00b2b6;
+}
+
+.fa-star {
+  color: #00b2b6;
+}
+.fa-star-half-alt {
+  color: #00b2b6;
+}
+.card2 {
+  width: 100%;
+  color: white;
+  border-radius: 20px;
+  background: orangered;
+  box-shadow: 0px 0px 10px #a0c1c2;
+  max-width: 90%;
+
+  padding: 50px 0px;
+  margin-bottom: 100px;
+}
+.text-followers {
+  text-align: center;
+  margin-bottom: 0;
+}
+.text-followers2 {
+  margin-top: 0;
+  font-size: 18px;
+  text-align: center;
+}
+.icon {
+  font-size: 4rem;
+}
+.d-flex {
+  justify-content: space-around;
+}
