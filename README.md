@@ -1,6 +1,6 @@
 # Tevily
 
-This project link is in there [click here](https://upbeat-hoover-368ade.netlify.app/login).
+This project link is in there [click here](https://upbeat-hoover-368ade.netlify.app/).
 
 ## Importent Notes
 
