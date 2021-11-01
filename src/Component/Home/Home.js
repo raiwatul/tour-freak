@@ -93,7 +93,12 @@ const Home = () => {
             </div>
 
 
-
+            {/* review part */}
+            <div className="container mt-5">
+                <h5 className="text-orgarge text-center">Our Traveller Say</h5>
+                <h3 className="text-center text-size">What Oue Traveller Say <br /> About Us</h3>
+                <Review></Review>
+            </div>
 
             {/* extra setion */}
             <div className="extra-cover mt-5">
@@ -125,12 +130,7 @@ const Home = () => {
             </div>
 
 
-            {/* review part */}
-            <div className="container mt-5">
-                <h5 className="text-orgarge text-center">Our Traveller Say</h5>
-                <h3 className="text-center text-size">What Oue Traveller Say <br /> About Us</h3>
-                <Review></Review>
-            </div>
+
         </div>
 
     );
